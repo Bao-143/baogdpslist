@@ -1,19 +1,22 @@
 {
-	"id":117 ,
-	"name": "15 second extreme demon",
-	"author": "Krypton",
-	"creators": [
-	"Krypton"
+	"id": 117,
+	"name": "ZOOOOOOOOOOOOOOOOOOM",
+	"tags": [
+		"Short",
+		"Extreme Demon"
 	],
+	"author": "Krypton",
+	"creators": [],
 	"verifier": "Krypton",
+	"verification": "https://youtu.be/Rxb5iRPh_Gw?si=eIJKgcoL_iziW5vD",
 	"percentToQualify": 100,
+	"password": "Free Copy",
 	"records": [
 		{
-			"user": "53ek",
+			"user": "naro",
+			"link": "https://youtu.be/NCRcL7Pmumw?si=LLUGtZY3-rrHz3Sq",
 			"percent": 100,
 			"hz": 360
 		}
 	]
 }
-
-
