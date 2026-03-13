@@ -8,7 +8,7 @@
 	"author": "Krypton",
 	"creators": [],
 	"verifier": "Krypton",
-	"verification": "https://youtu.be/Rxb5iRPh_Gw?si=eIJKgcoL_iziW5vD",
+	"verification": "empty",
 	"percentToQualify": 100,
 	"password": "Free Copy",
 	"records": [
@@ -16,9 +16,10 @@
 			"user": "53ek",
 			"link": "empty",
 			"percent": 100,
-			"hz": "empty"
+			"hz": 60
 		}
 	]
 }
+
 
 
