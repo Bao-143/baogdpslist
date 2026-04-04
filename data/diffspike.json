@@ -23,6 +23,12 @@
 			"link": "https://youtu.be/0bV8QHYuACc/",
 			"percent": 100,
 			"hz": 60
+		},
+				{
+			"user": "Nix",
+			"link": "https://www.youtube.com/watch?v=sbYLWrIkSuw",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
